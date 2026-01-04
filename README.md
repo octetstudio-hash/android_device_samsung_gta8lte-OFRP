@@ -1,1 +1,1 @@
-# TWRP device tree for Samsung Tab A8 SM-X205
+# Orange Fox Recovery Project for Samsung Tab A8 SM-X205
